@@ -3,6 +3,11 @@ import pandas as pd
 import time
 import os
 
+
+# 
+# This code generates txt files for statistics on organic/ad/PL/3-P percentages, category wise and overall. Also generates csv files for query wise statistics.
+# 
+
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm/'
 
 def directories(dir_path) : 

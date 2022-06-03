@@ -71,5 +71,5 @@ if __name__ == '__main__':
 				sd = str(df['Description'][i])  +' '+ '<img class="alignnone wp-image-2672 size-full" src="http://65.0.75.99/wp-content/uploads/2022/04/f-assured-e1650201274159.png" alt="" width="100" height="27" />'
 			df['Description'][i] = sd
 			df['F-Description'][i] = description
-			name = 'C:/Users/yashwanth/Desktop/btp/survey_csv' +'sdkgfyusfdh'+ str(q) + '.csv'
+			name = 'C:/Users/yashwanth/Desktop/btp/survey_csv' + str(q) + '.csv'
 			df.to_csv(name)

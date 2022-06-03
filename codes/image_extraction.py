@@ -14,9 +14,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 import requests
 
 
-
-
-
+# 
+# This code extracts images from the existing CSVs in the path
+# 
 
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_08_1pm/'
 dest = 'C:/Users/yashwanth/Desktop/btp/survey_csv/'

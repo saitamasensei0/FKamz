@@ -3,6 +3,11 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+
+# 
+# This code generates heatmap at positions where repetitions were observed and also generates csv for the temporal repetition count. 
+# 
+
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm/horizontal/beds_Furniture_data.csv'
 p = 'C:/Users/yashwanth/Desktop/DATA/'
 common =['backpacks','Battery','bean bags' ,'Bedsheet','belt','blanket','camera' ,'coffee mugs','dumbells and weights' ,'jackets' ,'jeans' ,'kettle' ,'masks','matresses','pans','pillows' ,'shoe rack','socks','sports gloves','sports shoes','sweaters','trimmer','tv','wall clock','wallet','washing machines','water bottles','yoga mat']

@@ -13,6 +13,11 @@ from webdriver_manager.chrome import ChromeDriverManager
 import matplotlib.pyplot as plt 
 import requests
 
+
+# 
+# This code generates heatmap of PL positions and generates snap wise PL statistics of selected
+# 
+
 path = 'C:/Users/yashwanth/Desktop/DATA/'
 # query = ['backpacks_clothesAndApparell_data','jeans_clothesAndApparell_data','water bottles_Kitchen_data','wall clock_homeDecor_data','yoga mat_Sports_data']
 dest = 'C:/Users/yashwanth/Desktop/OLD_DATA/'

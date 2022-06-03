@@ -14,6 +14,12 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import requests
 
+
+
+# 
+# Final cosmetic changes to the CSVs
+# 
+
 dest = 'C:/Users/yashwanth/Desktop/btp/survey_csv_final/'
 path = 'C:/Users/yashwanth/Desktop/btp/survey_csv/'
 queries = ['backpacks_clothesAndApparell_data','jeans_clothesAndApparell_data','water bottles_Kitchen_data','wall clock_homeDecor_data''washing machines']

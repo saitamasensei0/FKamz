@@ -15,6 +15,10 @@ from random import random
 import matplotlib.pyplot as plt 
 import requests
 
+# 
+# This script generates the probability distribution (dumped into csvs) and CSVs for all three product patterns. 
+# 
+
 path = 'C:/Users/yashwanth/Desktop/DATA/'
 query = ['backpacks_clothesAndApparell_data','jeans_clothesAndApparell_data','water bottles_Kitchen_data','wall clock_homeDecor_data','yoga mat_Sports_data']
 dest = 'C:/Users/yashwanth/Desktop/OLD_DATA/'

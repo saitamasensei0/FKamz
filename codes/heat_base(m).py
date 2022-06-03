@@ -2,6 +2,11 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt 
 import os
+
+# 
+# Code received as template for heatmap generation
+# 
+
 #list_of_names = ['C:/Users/Nikita/Amazon_Baby wipes.csv','C:/Users/Nikita/Amazon_backpack.csv','C:/Users/Nikita/Amazon_bean bags.csv','C:/Users/Nikita/Amazon_bedsheet.csv','C:/Users/Nikita/Amazon_belt.csv','C:/Users/Nikita/Amazon_blanket.csv','C:/Users/Nikita/Amazon_desk.csv','C:/Users/Nikita/Amazon_detergent.csv','C:/Users/Nikita/Amazon_Dumbbells and weights.csv','C:/Users/Nikita/Amazon_Hand soap.csv','C:/Users/Nikita/Amazon_Jackets.csv','C:/Users/Nikita/Amazon_Luggage.csv','C:/Users/Nikita/Amazon_Mask.csv','C:/Users/Nikita/Amazon_Mattresses.csv']
 list_of_names = []
 path = 'C:/Users/yashwanth/Desktop/vertical'

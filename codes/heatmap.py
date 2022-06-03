@@ -5,6 +5,10 @@ import matplotlib.pyplot as plt
 
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm'
 
+# 
+# This code generates heatmaps for horizontal/vertical alignments for positions of Ads and PLs.
+# 
+
 def heat_generator(result,list_of_names,label,flag) :
     for j in range(len(list_of_names)):
         print(list_of_names[j])

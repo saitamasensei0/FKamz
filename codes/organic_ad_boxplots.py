@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import scipy.stats
 
-#    generates box plots querey wise and category wise for the difference in advertised rank and its organic appearance, for PL and TP     #
+#    generates box plots querey wise and category wise for the difference in advertised rank and its organic appearance sqaured, for PL and TP     #
 #    generates csv with median values #
 
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm/horizontal/beds_Furniture_data.csv'

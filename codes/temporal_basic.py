@@ -6,7 +6,7 @@ import parsers
 import midend
  
 	
-#     This code generates the basic statistics like organic PL, advertised PL, organic TP, advertised TP across snapshots category wise and overall    #
+#     This code generates the basic statistics like organic PL, advertised PL, organic TP, advertised TP across snapshots category wise    #
 	
 path = 'C:/Users/yashwanth/Desktop/DATA/'
 

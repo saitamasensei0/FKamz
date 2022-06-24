@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+#    This code generates txt file with avg rating category wise, for PL-AD,TP-AD,TP-ORG,PL-ORG        #
+
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm/horizontal/beds_Furniture_data.csv'
 p = 'C:/Users/yashwanth/Desktop/DATA/'
 def directories(dir_path) : 

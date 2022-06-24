@@ -15,7 +15,7 @@ import requests
 
 
 
-
+#       This code generates csv added with image url and few modifications to the data fields to make it compatible to the website when input the csvs of selected queries     #
 
 
 path = 'C:/Users/yashwanth/Desktop/btp/selects/'

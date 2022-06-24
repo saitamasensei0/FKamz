@@ -4,6 +4,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import spearmanr
 
+## generates a csv file with count of advertisements which have organic ranks
+
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm/horizontal/beds_Furniture_data.csv'
 p = 'C:/Users/yashwanth/Desktop/DATA/'
 def directories(dir_path) : 

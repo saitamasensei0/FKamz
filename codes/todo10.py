@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+#    This code generates heamap for positions with products having a rating >=4 (if applicable)      #
+
 p = 'C:/Users/yashwanth/Desktop/DATA/'
 t = '/horizontal/wardrobe_Furniture_data.csv'
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm/horizontal/wardrobe_Furniture_data.csv'

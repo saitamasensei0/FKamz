@@ -31,10 +31,10 @@ def parse(path) :
     for dir in dirs : 
         if dir == 'horizontal' : 
             condition = 40
-            midd = 10
+            midd = 19
         else : 
             condition = 24
-            midd = 19
+            midd = 10
         for file in os.listdir(path + dir + '/') :
             filepath = path + dir + '/' + file
             df = pd.read_csv(filepath)

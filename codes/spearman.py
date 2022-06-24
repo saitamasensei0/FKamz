@@ -4,6 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import spearmanr
 
+#     This code generates a csv file containing spearman correlation between a list of advertised rank and a list of their organic appearance of all queries across snapshots       #
+
+
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm/horizontal/beds_Furniture_data.csv'
 p = 'C:/Users/yashwanth/Desktop/DATA/'
 def directories(dir_path) : 

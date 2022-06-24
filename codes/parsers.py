@@ -5,6 +5,9 @@ import os
 
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm/'
 
+#          This code generates csv with basic statistics like number of PLs in top5,10 fraction of PLs that are advertised etc..             #
+
+
 def directories(dir_path) : 
 	dirs = []
 	for things in os.listdir(dir_path) : 

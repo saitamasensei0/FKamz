@@ -8,6 +8,8 @@ path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm/'
 p = 'C:/Users/yashwanth/Desktop/DATA/'
 figpath = 'C:/Users/yashwanth/Desktop/DATA/orgad_snaps/'
 
+#         This code generates heatmaps for organic positions of advertised products acrosss snapshots             #
+
 
 def heat_generator(list_of_names,label,flag) :
     for j in range(len(list_of_names)):

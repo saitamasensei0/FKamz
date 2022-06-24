@@ -5,6 +5,9 @@ import os
 import parsers
 import midend
  
+	
+#     This code generates the basic statistics like organic PL, advertised PL, organic TP, advertised TP across snapshots category wise and overall    #
+	
 path = 'C:/Users/yashwanth/Desktop/DATA/'
 
 def directories(dir_path) : 

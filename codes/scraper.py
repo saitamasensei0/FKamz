@@ -1,4 +1,5 @@
-#Scraper 1 Flipkart
+# This is a web scraper for flipkart website. 
+# This code extracts required data fields pertaining to products of different seacrh queries
 
 import csv
 from bs4 import BeautifulSoup

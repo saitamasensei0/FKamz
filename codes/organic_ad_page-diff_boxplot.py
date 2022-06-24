@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+#   generates boxplots of difference in page difference of advertised product and its organic appearance squared, query wise and category wise  #
+
+
 path = 'C:/Users/yashwanth/Desktop/DATA/feb_07_1pm/horizontal/beds_Furniture_data.csv'
 p = 'C:/Users/yashwanth/Desktop/DATA/'
 def directories(dir_path) : 

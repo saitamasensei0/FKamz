@@ -152,10 +152,10 @@ if __name__ == '__main__':
     elif dirs == 'vertical' :
         print('PLS : ')
         result = [[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0]]
-        # for k in list_of_names.keys() :
-        #     print(k)
-        #     heat_generator(result,list_of_names[k],'Pvt',0)
-        #     result = [[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0]]
+        for k in list_of_names.keys() :
+            print(k)
+            heat_generator(result,list_of_names[k],'Pvt',0)
+            result = [[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0]]
         print('ADS : ')
         for k in list_of_names.keys() :
             print(k)
